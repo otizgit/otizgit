@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**, **Three.JS** and **GSAP** 
 
-- 💬 Ask me about **HTML, CSS, JS, React, Framer Motion, GSAP, ThreeJS**
+- 💬 Ask me about **HTML, CSS, JS, React, Framer Motion, GSAP, Three.JS**
 
 - 📫 How to reach me **emmanuelokoh441@gmail.com**
 
