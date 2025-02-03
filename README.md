@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-- 🌱 I’m currently learning **React**, **Three.JS** and **GSAP** 
+- 🌱 I’m currently learning **TypeScript**, **Three.JS** and **GSAP** 
 
 - 💬 Ask me about **HTML, CSS, JS, React, Framer Motion, GSAP, Three.JS**
 
